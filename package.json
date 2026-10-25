@@ -1,0 +1,13 @@
+{
+  "name": "skyeye-drone",
+  "version": "1.0.0",
+  "description": "基于 **YOLOv8 + Vue 3 + TypeScript + Three.js** 的无人机航拍目标检测课程实验项目。 前端采用 Vue 3 Composition API + TypeScript + Three.js 实现，响应式状态、组件化、路由、状态管理与三维渲染全部服务于检测、数据集、训练等真实业务功能。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

@@ -1,0 +1,7 @@
+{
+  "source": "https://huggingface.co/datasets/banu4prasad/VisDrone-Dataset",
+  "split": "VisDrone2019-DET-val",
+  "downloaded": 20,
+  "seed": 2024,
+  "note": "VisDrone2019-DET 验证集均匀抽样，用于课程实验演示，遵循 CC BY-NC-SA 3.0 协议"
+}
