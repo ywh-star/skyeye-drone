@@ -10,13 +10,13 @@
 # 注意：隧道地址每次重启 cloudflared 都会变化，需要同步更新此处并重新部署
 [[redirects]]
   from = "/api/*"
-  to = "https://bryant-myspace-facility-teachers.trycloudflare.com/api/:splat"
+  to = "https://injured-shapes-por-prerequisite.trycloudflare.com/api/:splat"
   status = 200
   force = true
 
 [[redirects]]
   from = "/media/*"
-  to = "https://bryant-myspace-facility-teachers.trycloudflare.com/media/:splat"
+  to = "https://injured-shapes-por-prerequisite.trycloudflare.com/media/:splat"
   status = 200
   force = true
 
